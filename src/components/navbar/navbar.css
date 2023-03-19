@@ -2,7 +2,6 @@
     display:flex;
     justify-content: space-between;
     align-items: center;
-
     padding: 2rem 6rem;
 }
 .gpt3__navbar-links{
@@ -32,9 +31,10 @@
 .gpt3__navbar-menu_container p{
     color: #fff;
     font-family:var(--font-family);
-    font-weight: 505;
-    font-size: 19px;
+    font-weight: 500;
+    font-size: 18px;
     margin: 0 1rem;
+    line-height: 25px;
     text-transform: capitalize;
     cursor: pointer;
 }
